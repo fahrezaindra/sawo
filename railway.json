@@ -4,7 +4,7 @@
     "nixpacksPlan": {
       "phases": {
         "setup": {
-          "nixPkgs": ["wget", "tar"]
+          "nixPkgs": ["wget", "gnutar"]
         },
         "install": {
           "cmds": [
