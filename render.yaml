@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: xmrig-40jobs
-    env: docker
-    plan: free
-    dockerfilePath: ./Dockerfile
-    autoDeploy: false
